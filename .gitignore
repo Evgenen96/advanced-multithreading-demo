@@ -1,0 +1,12 @@
+.idea
+*.iml
+target/
+.gradle/
+*/libs
+*/index.jsp
+build/
+*/out/*
+/bin/
+.settings
+.project
+.classpath
