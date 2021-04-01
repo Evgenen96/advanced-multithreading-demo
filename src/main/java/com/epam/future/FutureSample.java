@@ -1,4 +1,4 @@
-package main.java.com.epam.futuresample;
+package main.java.com.epam.future;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

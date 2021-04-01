@@ -1,4 +1,4 @@
-package main.java.com.epam.sample1;
+package main.java.com.epam.fj;
 
 import java.util.HashMap;
 import java.util.Map;
